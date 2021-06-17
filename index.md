@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Hello! My name is Yuka Hatori and I am a graduate student at Santa Clara University studying Computer Science and Engineering. This summer I will be working, remotely, with Dr. Glencora Borradaile who is at Oregon State University.
+Hello! My name is Yuka Hatori and I am a graduate student at Santa Clara University in the department of Computer Science and Engineering. I will be graduating June 2022. This summer I will be working, remotely, with Dr. Glencora Borradaile who is at Oregon State University.
 
 ## About My Mentor
 
@@ -18,9 +18,11 @@ In the past, Glencora’s research focused on traditional network flow and desig
 
 Glencora has a B.Sc. in Applied Mathematics from the University of Western Ontario (2002) and a Ph.D. in Computer Science from Brown University (2008) and held a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellowship in the Department of Combinatorics and Optimization at the University of Waterloo.
 
+Link to their website: https://blogs.oregonstate.edu/glencora/
+
 ## About My Project
 
-Project description goes here.
+To be updated. 
 
 [My Final Report](files/finalreport.pdf)
 
