@@ -70,3 +70,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+
+#rebuild
