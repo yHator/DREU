@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Hello! My name is Yuka Hatori and I am a graduate student at Santa Clara University studying Computer Science and Engineering. This summer I will be working remotely with Dr. Glencora Borradaile who is at Oregeon State University.
+Hello! My name is Yuka Hatori and I am a graduate student at Santa Clara University studying Computer Science and Engineering. This summer I will be working, remotely, with Dr. Glencora Borradaile who is at Oregon State University.
 
 ## About My Mentor
 
