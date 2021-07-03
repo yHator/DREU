@@ -22,7 +22,7 @@ Link to their website: https://blogs.oregonstate.edu/glencora/
 
 ## About My Project
 
-To be updated. 
+For this project, I will be performing research on the Chilling Effect, which is the inhibition or discouragement of the legitimate exercise of natural and legal rights by the threat of legal sanction. My first introduction to this topic was from Jonathon W. Penney’s work which delves into the subsequent effect of Edward Snowden leaking classified information from the National Security Agency (NSA) in 2013. We will be categorizing different types of chilling and identifying the ways that the chilling effect influences the legal field, the engineering community, and society at large, as well as potential ways to perform studies in order to gather data. Further, we will attempt to replicate the study done in Jonathon W. Penney’s “Chilling Effects: Online Surveillance and Wikipedia Use” on Twitter, to determine whether the Chilling Effect can be observed on social media. 
 
 [My Final Report](files/finalreport.pdf)
 
