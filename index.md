@@ -18,7 +18,7 @@ In the past, Glencora’s research focused on traditional network flow and desig
 
 Glencora has a B.Sc. in Applied Mathematics from the University of Western Ontario (2002) and a Ph.D. in Computer Science from Brown University (2008) and held a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellowship in the Department of Combinatorics and Optimization at the University of Waterloo.
 
-Link to their website: https://blogs.oregonstate.edu/glencora/
+Link to their website: https://blogs.oregonstate.edu/glencora/ 
 
 ## About My Project
 
