@@ -22,7 +22,7 @@ Link to their website: https://blogs.oregonstate.edu/glencora/
 
 For this project, I will be performing research on the Chilling Effect, which is the inhibition or discouragement of the legitimate exercise of natural and legal rights by the threat of legal sanction. My first introduction to this topic was from Jonathon W. Penney’s work which delves into the subsequent effect of Edward Snowden leaking classified information from the National Security Agency (NSA) in 2013. We will be categorizing different types of chilling and identifying the ways that the chilling effect influences the legal field, the engineering community, and society at large, as well as potential ways to perform studies in order to gather data. Further, we will be gathering evidence of chill effects on social media platform Twitter in regards to the 2020 Black Lives Matter protests. Federal agents, as well as local police departments, have  been  utilizing  social  media  monitoring  toolsin  order  to  gather  intelligence  on  BLM  protests. This surveillance could cause a chilling effecton protesters because protesters may opt to refrainfrom using social media or other insecure communication channels in order to avoid detection.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/Final_Report.pdf)
 
 ## My Blog
 
